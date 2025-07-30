@@ -1,5 +1,5 @@
 # Data science case studis
-The following case studies focus on different approaches, methods, tools to analyze business related datea
+The following case studies focus on different approaches, methods, tools to analyze business related data
 Data sets contain anonimized real world data and objectives are real word business objectives.
 
 ## Loan approval
