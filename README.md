@@ -25,3 +25,7 @@ Data sets contain anonimized real world data and objectives are real word busine
 - PCA + Logistic regression
 - Random Forrest classifier with hyper-parameter tuning
 - Histogram Gradient Boosting classifier with hyper-parameter tuning
+
+## Installation
+- Create a virtual environment (Last tested with: Python 3.13.5)
+- Install packages from requirements.txt `pip install -r requirements.txt`
